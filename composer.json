@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/jsrouting-bundle",
+    "name": "nick4fake/jsrouting-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSJsRoutingBundle",
     "keywords": ["Js Routing"],
